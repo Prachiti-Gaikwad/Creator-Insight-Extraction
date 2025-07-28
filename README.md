@@ -28,4 +28,5 @@ A Streamlit-based web application that allows users to extract insights from inf
 ---
 
 ## 📂 Deploy Project
+https://creator-insight-extraction-9kmfgqbyddcducdwhxn3sj.streamlit.app/
 
