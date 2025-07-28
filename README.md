@@ -1,5 +1,4 @@
-# 🎯 Creator Insight Extraction (LLM + Ranking System)
-
+# 🎯 Creator Insight Extraction 
 A Streamlit-based web application that allows users to extract insights from influencer/creator data using natural language queries. The app ranks creators based on engagement, follower count, and likes/comments, with optional LLM-powered query parsing via the Together API.
 
 ---
