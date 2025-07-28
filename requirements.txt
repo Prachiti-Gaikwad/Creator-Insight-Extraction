@@ -2,4 +2,11 @@ streamlit>=1.30.0
 pandas>=1.5.0
 together>=0.2.9
 langchain_openai>=0.1.0
-
+streamlit
+openai
+langchain
+langchain_openai
+langchain_community
+langchain_text_splitters
+faiss-cpu
+numpy
